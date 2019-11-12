@@ -1,3 +1,5 @@
 
 .project
 *.prefs
+/.settings/
+/.DS_Store
