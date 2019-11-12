@@ -9,6 +9,7 @@
 	<name>koko</name>
 	<modules>
 		<module>whale-base</module>
+		<module>whale-core</module>
 	</modules>
 	
 </project>
